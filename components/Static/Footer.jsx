@@ -36,19 +36,19 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
-                                <Link href="https://top.gg/bot/774043716797071371/vote">
+                                <Link href="https://www.instagram.com/gamer__exe/">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
+                                        Instgram
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/ACJQzJuckW" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.gg/k7n7YAY2JU" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Support Server
                                 </a>
                             </div>
                             <div>
-                                <a href="https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/oauth2/authorize?client_id=1347826530604285974" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Invite Bot
                                 </a>
                             </div>
@@ -56,21 +56,21 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
                             <div>
-                                <Link href="https://discord.gg/ACJQzJuckW">
+                                <Link href="https://discord.gg/k7n7YAY2JU">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Disocrd 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/umutxyp/MusicBot">
+                                <Link href="https://www.instagram.com/gamer__exe">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-github`} /> GitHub 
+                                    <i className={`fa-brands fa-instgram`} /> Instgram 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://youtube.com/UmutBayraktarYT">
+                                <Link href="https://www.youtube.com/@gam3rexe">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-youtube`} /> YouTube 
                                     </a>
