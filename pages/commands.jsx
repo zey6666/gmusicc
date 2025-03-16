@@ -4,14 +4,7 @@ import Link from "next/link";
 export default function Commands() {
 const commands = [
   "/autoplay",
-  "/back",
-  "/statistic",
-  "/channel",
-  "/clear",
-  "/dj",
-  "/filter",
-  "/help",
-  "/language",
+  "/Lyrics",
   "/loop",
   "/nowplaying",
   "/pause",
@@ -20,14 +13,13 @@ const commands = [
   "/playlist",
   "/queue",
   "/resume",
-  "/save",
-  "/search",
+  "/support",
   "/seek",
-  "/servers",
+  "/help",
   "/shuffle",
   "/skip",
   "/stop",
-  "/time",
+  "/np",
   "/volume"
 ];
 
