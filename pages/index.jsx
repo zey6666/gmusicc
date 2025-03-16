@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="/img/icons8-ghost.gif" />
+      <img width="500" src="/img/logoo.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           GMUSIC
@@ -29,10 +29,10 @@ export default function Index() {
         </div>
 
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
-        <Image width="600" height="600" src="/img/gift-left.png"  />
+        <Image width="600" height="600" src="/img/logoo.png"  />
         </div>
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag opacity-10 pointer-events-none -right-[15vw] absolute top-[13vw] h-[90vw] grayscale -rotate-9">
-        <Image  width="600" height="600" src="/img/gift-right.png"  />
+        <Image  width="600" height="600" src="/img/logoo.png"  />
         </div>
       </div>
 
