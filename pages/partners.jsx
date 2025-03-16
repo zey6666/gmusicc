@@ -5,7 +5,7 @@ export default function Partners() {
         <>
             <div className="w-full my-10">
             <div className="flex w-full justify-center">
-      <img width="400" src="/img/icons8-ghost.gif" />
+      <img width="400" src="/img/logoo.png" />
       </div>
                 <h1 className="py-7 animateHeader text-4xl font-extrabold text-center text-white">
                     <i className="fal fa-stars text-amber-400 mr-2" />
