@@ -42,7 +42,7 @@ const commands = [
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the MusicMaker Bot.
+        You can get information about the commands of the GMUSIC Bot.
         </p>
 
         <div>
@@ -89,23 +89,23 @@ const commands = [
 
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-  <Link href={"https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot"}>
+  <Link href={"https://discord.com/oauth2/authorize?client_id=1347826530604285974"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite MusicMaker</a>
+Invite GMUSIC</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://discord.gg/ACJQzJuckW"}>
+  <Link href={"https://discord.gg/k7n7YAY2JU"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Support Server</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://top.gg/bot/774043716797071371/vote"}>
+  <Link href={"https://www.instagram.com/gamer__exe"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote MusicMaker</a>
+Instgram</a>
   </Link>
 </div>
 
