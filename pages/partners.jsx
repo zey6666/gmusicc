@@ -18,7 +18,7 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://www.youtube.com/@WhatIFStudiosOffical">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1242113972262670336/1350764411853213737/wlogo.jpg?ex=67d93e63&is=67d7ece3&hm=8ac27334b194369d10d83e16c52a24f83eb76dc5a1b819ab8e8fd459bcfcc201" />
+                            <img className="rounded-full h-32 w-32" src="/img/giphy_1.gif" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Whatif Studios</h1>        
                                 <div className="flex items-center mt-1">
