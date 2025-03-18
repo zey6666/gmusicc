@@ -20,10 +20,10 @@ export default function Partners() {
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="/img/giphy_1.gif" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Whatif Studios</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">GAMER EXE</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      🎥 Welcome to WhatIf Studios!At WhatIf Studios, we bring your favorite movies to life through epic fan-made trailers and creative reimaginings. From Bollywood to Kollywood, Mollywood to Tollywood — we cover movies across India's diverse film industries.
+                                     bulid unique.
                                     </p>
                                 </div>     
                             </div>
