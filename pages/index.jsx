@@ -85,7 +85,7 @@ export default function Index() {
                   <p className="text-3xl text-white font-semibold">BOT STATUS</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">BOT IS ONLINE
                 </div>
-                <img src="/img/1.gif" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
