@@ -85,7 +85,7 @@ export default function Index() {
                   <p className="text-3xl text-white font-semibold">BOT STATUS</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5"> BOT IS ONLINE</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/1339984766283419781/1351891963846197288/gmusic.gif?ex=67dc0701&is=67dab581&hm=2af6e13c8361fec4b434b81785cb4ba15237931d398d00ffbbc56444974532d9&=&width=612&height=216" />
+                <img src="https://images-ext-1.discordapp.net/external/glX-kuvHTjOKMekEdY3GZk-NtUhBepGo2BP4og1Hu6M/%3Fsize%3D1024/https/cdn.discordapp.com/banners/1347826530604285974/a_6d6bcc2c0323492df89fbd056907696f.gif?width=432&height=151" />
               </>
       
         </div>
