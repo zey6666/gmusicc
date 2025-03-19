@@ -81,7 +81,7 @@ export default function Index() {
  <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://images-ext-1.discordapp.net/external/glX-kuvHTjOKMekEdY3GZk-NtUhBepGo2BP4og1Hu6M/%3Fsize%3D1024/https/cdn.discordapp.com/banners/1347826530604285974/a_6d6bcc2c0323492df89fbd056907696f.gif?width=432&height=151"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="https://media.discordapp.net/attachments/1351892622498598922/1351892687199928330/gmusic.gif?ex=67dc07ad&is=67dab62d&hm=ccad606cc0172c9c8966c005b05b2e3682d543b9f2255e70b14ac2366bfc897a&=&width=612&height=216"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">BOT STATUS</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">BOT IS ONLINE</p>
                 </div>
