@@ -85,7 +85,7 @@ export default function Index() {
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with GMUSIC, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/737347015251460156/1313966525111074836/image.png?ex=67520e2f&is=6750bcaf&hm=42cac37cae7dbf90e6a5e0804fcfaf0575adbdec3a14078fb2597caa9f0c5033&=&format=webp&quality=lossless&width=687&height=421" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://images-ext-1.discordapp.net/external/glX-kuvHTjOKMekEdY3GZk-NtUhBepGo2BP4og1Hu6M/%3Fsize%3D1024/https/cdn.discordapp.com/banners/1347826530604285974/a_6d6bcc2c0323492df89fbd056907696f.gif?width=432&height=151" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
